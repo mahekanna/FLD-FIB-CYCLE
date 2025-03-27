@@ -1,0 +1,225 @@
+2025-03-27 18:07:34,549 - __main__ - INFO - Google Drive path found: G:\My Drive\FLD-FIB-CYCLE
+2025-03-27 18:07:34,549 - __main__ - INFO - Created directory: ./data/cache
+2025-03-27 18:07:34,549 - __main__ - INFO - Created directory: ./logs
+2025-03-27 18:07:34,549 - __main__ - INFO - Created default symbols file: ./data/symbols/default_symbols.csv
+2025-03-27 18:07:55,861 - core.cycle_detection - INFO - GPU acceleration available with CuPy
+2025-03-27 18:07:56,985 - web.app - WARNING - Could not import Google Drive integration: No module named 'integration.google_drive_integration'
+2025-03-27 18:07:56,986 - web.app - WARNING - Google Drive not accessible, using local storage
+2025-03-27 18:07:56,987 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-27 18:07:56,987 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-27 18:07:56,987 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-27 18:07:56,988 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-27 18:07:56,988 - core.scanner - INFO - Scanner initialized with exchange NSE
+2025-03-27 18:07:57,090 - core.data_manager - INFO - Loaded 5 symbols from ./data/symbols/default_symbols.csv
+2025-03-27 18:07:57,259 - __main__ - ERROR - Error starting web application: register_callbacks() got an unexpected keyword argument 'export_engine'
+2025-03-27 19:19:56,622 - core.cycle_detection - INFO - GPU acceleration available with CuPy
+2025-03-27 19:19:56,973 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-27 19:19:56,973 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-27 19:19:56,973 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-27 19:19:56,973 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-27 19:19:56,974 - core.scanner - INFO - Scanner initialized with exchange NSE
+2025-03-27 19:19:56,974 - __main__ - INFO - Scanning NIFTY on daily timeframe...
+2025-03-27 19:19:56,975 - core.data_manager - INFO - Fetching 5000 bars of NIFTY daily data from NSE
+2025-03-27 19:19:58,113 - core.data_manager - INFO - Successfully fetched 5000 bars for NIFTY
+2025-03-27 19:19:58,158 - core.scanner - INFO - Analysis completed for NIFTY on daily: Neutral (Low)
+2025-03-27 19:19:58,780 - core.scanner - ERROR - Error saving chart to Google Drive: No module named 'integration.google_drive_integration'
+2025-03-27 19:19:58,789 - integration.export_engine - INFO - Exported 1 results to ./data/reports\NIFTY_daily_analysis.csv
+2025-03-27 19:19:58,790 - integration.export_engine - ERROR - Error saving to Google Drive: No module named 'integration.google_drive_integration'
+2025-03-27 21:35:28,869 - __main__ - INFO - Google Drive path found: G:\My Drive\FLD-FIB-CYCLE
+2025-03-27 21:35:34,505 - core.cycle_detection - INFO - GPU acceleration available with CuPy
+2025-03-27 21:35:35,318 - web.app - WARNING - Could not import Google Drive integration: No module named 'integration.google_drive_integration'
+2025-03-27 21:35:35,318 - web.app - WARNING - Google Drive not accessible, using local storage
+2025-03-27 21:35:35,319 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-27 21:35:35,319 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-27 21:35:35,319 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-27 21:35:35,319 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-27 21:35:35,320 - core.scanner - INFO - Scanner initialized with exchange NSE
+2025-03-27 21:35:35,401 - core.data_manager - INFO - Loaded 5 symbols from ./data/symbols/default_symbols.csv
+2025-03-27 21:35:35,518 - __main__ - ERROR - Error starting web application: register_callbacks() got an unexpected keyword argument 'export_engine'
+2025-03-28 00:36:58,132 - __main__ - INFO - Google Drive path found: G:\My Drive\FLD-FIB-CYCLE
+2025-03-28 00:37:03,480 - core.cycle_detection - INFO - GPU acceleration available with CuPy
+2025-03-28 00:37:04,225 - integration.google_drive_integration - INFO - Created directory: G:\My Drive\FLD-FIB-CYCLE\reports
+2025-03-28 00:37:04,234 - integration.google_drive_integration - INFO - Created directory: G:\My Drive\FLD-FIB-CYCLE\logs
+2025-03-28 00:37:04,243 - integration.google_drive_integration - INFO - Created directory: G:\My Drive\FLD-FIB-CYCLE\charts
+2025-03-28 00:37:04,244 - web.app - INFO - Google Drive storage available at G:\My Drive\FLD-FIB-CYCLE
+2025-03-28 00:37:04,244 - web.app - INFO - Using Google Drive storage at G:\My Drive\FLD-FIB-CYCLE
+2025-03-28 00:37:04,246 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-28 00:37:04,246 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-28 00:37:04,246 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-28 00:37:04,247 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-28 00:37:04,248 - core.scanner - INFO - Scanner initialized with exchange NSE
+2025-03-28 00:37:04,328 - core.data_manager - INFO - Loaded 5 symbols from G:\My Drive\FLD-FIB-CYCLE\data\symbols\default_symbols.csv
+2025-03-28 00:37:04,466 - __main__ - INFO - Starting web application on 127.0.0.1:8050
+2025-03-28 00:37:04,467 - __main__ - ERROR - Error starting web application: app.run_server has been replaced by app.run
+2025-03-28 00:40:13,048 - __main__ - INFO - Google Drive path found: G:\My Drive\FLD-FIB-CYCLE
+2025-03-28 00:40:16,631 - core.cycle_detection - INFO - GPU acceleration available with CuPy
+2025-03-28 00:40:17,230 - web.app - INFO - Google Drive storage available at G:\My Drive\FLD-FIB-CYCLE
+2025-03-28 00:40:17,231 - web.app - INFO - Using Google Drive storage at G:\My Drive\FLD-FIB-CYCLE
+2025-03-28 00:40:17,232 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-28 00:40:17,232 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-28 00:40:17,232 - tvDatafeed.main - WARNING - you are using nologin method, data you access may be limited
+2025-03-28 00:40:17,232 - core.data_manager - INFO - TvDatafeed client initialized
+2025-03-28 00:40:17,233 - core.scanner - INFO - Scanner initialized with exchange NSE
+2025-03-28 00:40:17,291 - core.data_manager - INFO - Loaded 5 symbols from G:\My Drive\FLD-FIB-CYCLE\data\symbols\default_symbols.csv
+2025-03-28 00:40:17,392 - __main__ - INFO - Starting web application on 127.0.0.1:8050
+2025-03-28 00:40:17,393 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-03-28 00:40:17,403 - dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 9
+2025-03-28 00:40:17,404 - dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 14
+2025-03-28 00:40:17,418 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-03-28 00:40:17,419 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 00:41:03,630 - web.app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\mahes\anaconda3\envs\gann_live\lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\mahes\anaconda3\envs\gann_live\lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\mahes\anaconda3\envs\gann_live\lib\site-packages\flask\app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "C:\Users\mahes\anaconda3\envs\gann_live\lib\site-packages\flask\app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "C:\Users\mahes\anaconda3\envs\gann_live\scanner\fibonacci_cycle_system\web\app.py", line 188, in before_request
+    def shutdown_bot(exception=None):
+  File "C:\Users\mahes\anaconda3\envs\gann_live\lib\site-packages\flask\sansio\scaffold.py", line 46, in wrapper_func
+    self._check_setup_finished(f_name)
+  File "C:\Users\mahes\anaconda3\envs\gann_live\lib\site-packages\flask\sansio\app.py", line 415, in _check_setup_finished
+    raise AssertionError(
+AssertionError: The setup method 'teardown_appcontext' can no longer be called on the application. It has already handled its first request, any changes will not be applied consistently.
+Make sure all imports, decorators, functions, etc. needed to set up the application are done before running it.
+2025-03-28 00:41:03,636 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-28 00:41:04,748 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "GET / HTTP/1.1" 200 -
+2025-03-28 00:41:04,822 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "GET /_dash-component-suites/dash/deps/react@18.v3_0_0m1742831870.3.1.min.js HTTP/1.1" 200 -
+2025-03-28 00:41:04,823 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_0m1742831870.8.1.min.js HTTP/1.1" 200 -
+2025-03-28 00:41:04,823 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_0m1742831870.3.1.min.js HTTP/1.1" 200 -
+2025-03-28 00:41:04,825 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_0m1742831870.min.js HTTP/1.1" 200 -
+2025-03-28 00:41:04,909 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "GET /_dash-layout HTTP/1.1" 200 -
+2025-03-28 00:41:04,909 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-03-28 00:41:04,939 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:04] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:41:05,086 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:41:05,110 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:05] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-03-28 00:41:05,117 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:05] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-03-28 00:41:05,138 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:41:16,393 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:16] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:41:23,215 - core.data_manager - INFO - Fetching 5000 bars of TCS daily data from NSE
+2025-03-28 00:41:23,728 - tvDatafeed.main - ERROR - Connection to remote host was lost.
+2025-03-28 00:41:23,728 - tvDatafeed.main - ERROR - no data, please check the exchange and symbol
+2025-03-28 00:41:23,728 - core.data_manager - WARNING - No data returned for TCS on NSE
+2025-03-28 00:41:23,728 - core.scanner - WARNING - Insufficient data for TCS on daily
+2025-03-28 00:41:23,734 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:41:32,653 - core.data_manager - INFO - Using cached data for NIFTY daily
+2025-03-28 00:41:32,700 - core.scanner - INFO - Analysis completed for NIFTY on daily: Neutral (Low)
+2025-03-28 00:41:34,157 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:41:34] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:42:05,133 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:42:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:42:25,204 - core.data_manager - INFO - Fetching 5000 bars of BANKNIFTY daily data from NSE
+2025-03-28 00:42:25,717 - tvDatafeed.main - ERROR - Connection to remote host was lost.
+2025-03-28 00:42:25,724 - tvDatafeed.main - ERROR - no data, please check the exchange and symbol
+2025-03-28 00:42:25,724 - core.data_manager - WARNING - No data returned for BANKNIFTY on NSE
+2025-03-28 00:42:25,724 - core.scanner - WARNING - Insufficient data for BANKNIFTY on daily
+2025-03-28 00:42:25,724 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:42:25] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:42:29,254 - core.data_manager - INFO - Fetching 5000 bars of BANKNIFTY daily data from NSE
+2025-03-28 00:42:30,074 - core.data_manager - INFO - Successfully fetched 5000 bars for BANKNIFTY
+2025-03-28 00:42:30,115 - core.scanner - INFO - Analysis completed for BANKNIFTY on daily: Neutral (Low)
+2025-03-28 00:42:30,344 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:42:30] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:42:43,762 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:42:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:43:05,126 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:43:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:44:05,143 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:44:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:45:05,129 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:45:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:46:05,138 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:46:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:46:20,004 - core.data_manager - INFO - Loaded 751 symbols from G:\My Drive\FLD-FIB-CYCLE\data\symbols\Stocks_listed_in_indexes_2025-03-24.csv
+2025-03-28 00:46:20,009 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:46:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:46:20,018 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:46:20] "[36mGET /_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1[0m" 304 -
+2025-03-28 00:46:20,024 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:46:20] "[36mGET /_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1[0m" 304 -
+2025-03-28 00:46:36,147 - core.data_manager - INFO - Loaded 751 symbols from G:\My Drive\FLD-FIB-CYCLE\data\symbols\Stocks_listed_in_indexes_2025-03-24.csv
+2025-03-28 00:46:36,154 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:46:36] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:46:52,868 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:46:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:46:56,640 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:46:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:47:05,129 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:47:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:47:06,033 - core.data_manager - INFO - Loaded 751 symbols from G:\My Drive\FLD-FIB-CYCLE\data\symbols\Stocks_listed_in_indexes_2025-03-24.csv
+2025-03-28 00:47:06,039 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:47:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:47:47,890 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:47:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:47:47,924 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:47:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:48:01,070 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:48:01] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:48:05,125 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:48:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:48:05,660 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:48:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:48:05,682 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:48:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:48:42,517 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:48:42] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:48:42,530 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:48:42] "[36mGET /_dash-component-suites/dash/dcc/async-upload.js HTTP/1.1[0m" 304 -
+2025-03-28 00:48:45,732 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:48:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:49:05,139 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:49:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:49:29,396 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:49:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:49:53,631 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:49:53] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:50:05,131 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:50:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:50:25,262 - utils.config_manager - INFO - Created configuration directory: ./config
+2025-03-28 00:50:25,262 - utils.config_manager - INFO - Configuration file ./config/settings.json not found, using defaults
+2025-03-28 00:50:25,266 - utils.config_manager - INFO - Configuration saved to ./config/settings.json
+2025-03-28 00:50:25,267 - utils.config_manager - INFO - Configuration saved to ./config/settings.json
+2025-03-28 00:50:25,267 - utils.config_manager - INFO - Configuration saved to ./config/settings.json
+2025-03-28 00:50:25,267 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:50:25] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:51:01,638 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:51:01] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:51:01,669 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:51:01] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:51:05,128 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:51:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:51:14,799 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:51:14] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:52:05,148 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:52:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:52:12,046 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:52:12] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:52:12,079 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:52:12] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:53:04,955 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:53:04] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:53:05,128 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:53:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:53:12,086 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:53:12] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:54:05,140 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:54:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:54:06,153 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:54:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:54:12,152 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:54:12] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:55:05,137 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:55:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:55:06,143 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:55:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:55:12,157 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:55:12] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:55:21,087 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:55:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:55:21,122 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:55:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:55:54,215 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:55:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:56:05,142 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:56:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:56:50,651 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:56:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:57:05,139 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:57:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:57:09,233 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:57:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:57:15,773 - core.data_manager - INFO - Fetching 5000 bars of KOTAKBANK daily data from NSE
+2025-03-28 00:57:16,577 - core.data_manager - INFO - Successfully fetched 5000 bars for KOTAKBANK
+2025-03-28 00:57:16,618 - core.scanner - INFO - Analysis completed for KOTAKBANK on daily: Neutral (Low)
+2025-03-28 00:57:16,951 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:57:16] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:57:24,490 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:57:24] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:58:03,518 - core.data_manager - INFO - Fetching 5000 bars of HDFCBANK daily data from NSE
+2025-03-28 00:58:04,347 - core.data_manager - INFO - Successfully fetched 5000 bars for HDFCBANK
+2025-03-28 00:58:04,395 - core.scanner - INFO - Analysis completed for HDFCBANK on daily: Neutral (Low)
+2025-03-28 00:58:04,617 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:58:04] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:58:05,128 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:58:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:58:20,236 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:58:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:58:20,277 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:58:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:59:04,984 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:59:04] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 00:59:05,132 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:59:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 00:59:21,168 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 00:59:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:04,959 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:04] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:05,133 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 01:00:06,689 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:06] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:12,595 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:12] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:12,622 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:12] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:38,316 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:38] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:43,088 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:56,069 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:00:56,103 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:00:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:01:04,972 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:01:04] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:01:05,130 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:01:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 01:01:56,174 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:01:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:02:03,788 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:02:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:02:03,814 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:02:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:02:05,132 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:02:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 01:02:09,186 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:02:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:03:05,149 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 01:03:29,482 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:03:31,056 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:03:45,244 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:03:48,469 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:48] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:03:52,070 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:03:52,091 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:03:56,883 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:03:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:04:00,242 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:04:00] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:04:00,260 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:04:00] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:04:02,640 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:04:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-03-28 01:04:05,133 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:04:05] "GET /_reload-hash HTTP/1.1" 200 -
+2025-03-28 01:04:17,636 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2025 01:04:17] "POST /_dash-update-component HTTP/1.1" 200 -

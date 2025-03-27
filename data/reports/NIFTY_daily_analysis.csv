@@ -1,0 +1,2 @@
+symbol,interval,last_price,last_date,signal,confidence,strength,cycles,has_key_cycles
+NIFTY,daily,23591.95,2025-03-27 09:15,Neutral,Low,,"20, 21, 34",True

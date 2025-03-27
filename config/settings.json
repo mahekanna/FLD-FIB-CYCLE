@@ -1,0 +1,50 @@
+{
+    "general": {
+        "default_exchange": "NSE",
+        "default_interval": "daily",
+        "default_lookback": 5000,
+        "symbols_file_path": "./data/symbols/default_symbols.csv",
+        "report_dir": "./data/reports",
+        "data_dir": "./data",
+        "cache_dir": "./data/cache",
+        "cache_expiry": 86400
+    },
+    "analysis": {
+        "cycle_detection_method": "combined",
+        "min_period": 20,
+        "max_period": 250,
+        "num_cycles": 3,
+        "fib_cycles": [
+            20,
+            21,
+            34,
+            55,
+            89
+        ],
+        "signal_threshold": 1.0
+    },
+    "performance": {
+        "use_gpu": true,
+        "max_workers": 5,
+        "batch_size": 20
+    },
+    "visualization": {
+        "chart_height": 600,
+        "show_volume": true,
+        "show_crossings": true,
+        "max_bars": 500
+    },
+    "notifications": {
+        "telegram_enabled": false,
+        "telegram_token": "",
+        "telegram_chat_id": "",
+        "notification_options": []
+    },
+    "backtest": {
+        "default_strategy": "fld_crossover",
+        "default_stop_loss": "atr",
+        "default_take_profit": "next_cycle",
+        "default_position_sizing": "risk_based",
+        "default_risk_percentage": 2.0
+    }
+}
